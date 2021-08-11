@@ -31,7 +31,7 @@ public class OperacjeNaLiczbach {
 
         System.out.println("suma liczb wynosi: " + suma);
         System.out.println("iloczyn liczb wynosi: " + iloczyn);
-        System.out.println("najmniejsza liczba wynosi: " + table[7]);
+        System.out.println("najmniejsza liczba wynosi: " + table[table.length -1]);
         System.out.println("największa liczba wynosi: " + table[0]);
         System.out.println("mediana wynosi: " + mediana);
 
